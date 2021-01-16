@@ -1,0 +1,108 @@
+h1{
+    text-align: center; 
+    font-size: 40px; 
+    margin-bottom: 0;
+}
+
+img{
+    height: 500px; 
+    width: 700px;
+}
+
+/* HEADING */
+.heading img{
+    height: 100px; 
+    width: 100px;
+}
+
+.heading h1{
+    background-color: #fc1808; 
+    color: #fff;
+}
+
+/* MENU */
+
+.menu{
+    font-size: 20px;
+    color: #000;
+}
+.menu ul{
+    list-style: none;
+}
+.menu li{
+    display: inline;
+    padding: 40px;
+}
+.menu a{
+    text-decoration: none;
+}
+
+/* GIỚI THIỆU */
+#GioiThieu{
+    font-size: 31px; 
+    background-color: #C50000; 
+    color: #fff;
+}
+#GioiThieu p{
+    color: #fff; 
+    margin-top: 0;
+}
+#GioiThieu i{
+    color: #000;
+}
+
+/* PHATTRIEN */
+#PhatTrien{
+    font-size: 25px; 
+    background-color: #C50000; 
+    color: #fff;
+}
+#PhatTrien p{
+    color: #fff; 
+    margin-top: 0;
+}
+#PhatTrien i{
+    color: #000;
+}
+
+/* BẢNG GIÁ NƯỚC ĐI KÈM */
+#table-nuoc-di-kem table{
+    margin: auto;
+    width: 60%;
+    height: 800px;
+    border: 2px solid black;
+}
+#table-nuoc-di-kem th,td{
+    border: 2px solid black;
+}
+.green-tea{
+    background-image: url(/IMG/greentea.jpg); 
+    background-size: cover; 
+    text-align: right;
+}
+.black-tea{
+    background-image: url(/IMG/blacktea.jpg); 
+    background-size: cover; 
+    text-align: center;
+}
+.olong-tea{
+    background-image: url(/IMG/olongtea.jpg); 
+    background-size: cover; 
+    text-align: left;
+}
+.fruit-tea{
+    background-image: url(/IMG/fruit.jpg); 
+    background-size: cover; 
+    text-align: left;
+}
+.milk-tea{
+    background-image: url(/IMG/milktea.png); 
+    background-size: cover; 
+    text-align: left;
+}
+.cold{
+    text-align: right;
+}
+.tea-price{
+    text-align: center;
+}
