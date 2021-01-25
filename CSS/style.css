@@ -76,22 +76,22 @@ img{
     border: 2px solid black;
 }
 .green-tea{
-    background-image: url(/IMG/greentea.jpg); 
+    background-image: url(../IMG/greentea.jpg); 
     background-size: cover; 
     text-align: right;
 }
 .black-tea{
-    background-image: url(/IMG/blacktea.jpg); 
+    background-image: url(../IMG/blacktea.jpg); 
     background-size: cover; 
     text-align: center;
 }
 .olong-tea{
-    background-image: url(/IMG/olongtea.jpg); 
+    background-image: url(../IMG/olongtea.jpg); 
     background-size: cover; 
     text-align: left;
 }
 .fruit-tea{
-    background-image: url(/IMG/fruit.jpg); 
+    background-image: url(../IMG/fruit.jpg); 
     background-size: cover; 
     text-align: left;
 }
